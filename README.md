@@ -37,4 +37,4 @@
     1) [製作貼圖](./Ep7貼圖篇/7-1製作貼圖.md)
 
 ---
-### [什麼是Telegram➡️](./Ep1什麼是Telegram/1-1什麼是Telegram.md)
+### [1-1什麼是Telegram➡️](./Ep1什麼是Telegram/1-1什麼是Telegram.md)

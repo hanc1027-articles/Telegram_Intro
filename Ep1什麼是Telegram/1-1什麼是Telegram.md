@@ -103,4 +103,4 @@ Telegram是一個跨平台(Linux、Mac OS、Windows、iOS、Android…)的即時
 [🔱Home](../README.md)  [⬆️Top](#目錄)
 
 ---
-### [⬅️總目錄](../README.md) | [2-1什麼是Telegram➡️](./Ep1什麼是Telegram/1-1什麼是Telegram.md)
+### [⬅️總目錄](../README.md) | [2-1什麼是Telegram➡️](../Ep2環境介紹/2-1中文化設定.md)
