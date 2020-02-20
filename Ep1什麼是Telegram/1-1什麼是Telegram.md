@@ -107,10 +107,10 @@ Telegram是一個跨平台(Linux、Mac OS、Windows、iOS、Android…)的即時
 ### 私心推薦
 個人是覺得電腦版用Telegreat是滿不錯的，他內建中文語系((還有魔法師中文，這個超有趣的。  
 Telegreat也有安卓版的，但沒有iOS的。  
-以下推薦的都是網路強者寫出來超棒第三方客戶端，伺服器都是官方的，所以不用擔心資料問題。
-電腦版：[Telegreat](https://telegre.at)  
-安卓版：[Telegreat](https://telegre.at)  
-蘋果版：[Nicegram](https://apps.apple.com/us/app/nicegram/id1457369322)  
+以下推薦的都是網路強者寫出來超棒第三方客戶端，伺服器都是官方的，所以不用擔心資料問題。  
+- 電腦版：[Telegreat](https://telegre.at)  
+- 安卓版：[Telegreat](https://telegre.at)  
+- 蘋果版：[Nicegram](https://apps.apple.com/us/app/nicegram/id1457369322)  
 
 
 [🔱Home](../README.md)  [⬆️Top](#目錄)
