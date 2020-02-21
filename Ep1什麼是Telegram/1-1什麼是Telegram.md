@@ -5,7 +5,6 @@
 2) [TG與Line比較](#TG與Line比較)
 3) [官方載點](#官方載點)
 4) [第三方手機軟體](#第三方手機軟體)
-5) [私心推薦](#私心推薦)
 
 `p.s.這裡的介紹都會以Mac OS 或 iOS 為主要操作系統，所以少許的功能會略有不同`
 
@@ -101,17 +100,6 @@ Telegram是一個跨平台(Linux、Mac OS、Windows、iOS、Android…)的即時
 ### 第三方手機軟體
 1) iOS:[Nicegram](https://apps.apple.com/us/app/nicegram/id1457369322)
 2) Android:[Plus Messenger](https://play.google.com/store/apps/details?id=org.telegram.plus&hl=zh_TW)
-
----
-
-### 私心推薦
-個人是覺得電腦版用Telegreat是滿不錯的，他內建中文語系((還有魔法師中文，這個超有趣的。  
-Telegreat也有安卓版的，但沒有iOS的。  
-以下推薦的都是網路強者寫出來超棒第三方客戶端，伺服器都是官方的，所以不用擔心資料問題。  
-- 電腦版：[Telegreat](https://telegre.at)  
-- 安卓版：[Telegreat](https://telegre.at)  
-- 蘋果版：[Nicegram](https://apps.apple.com/us/app/nicegram/id1457369322)  
-
 
 [🔱Home](../README.md)  [⬆️Top](#目錄)
 
