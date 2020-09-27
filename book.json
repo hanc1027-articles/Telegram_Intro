@@ -1,0 +1,39 @@
+{
+    "title": "Telegram基礎懶人包✈️",
+    "description": "Telegram最基礎教學",
+    "author": "Hanc",
+    "language": "zh-tw",
+    "gitbook": "3.2.2",
+    "root": ".",
+    "links": {
+        "sidebar": {
+            "柏哇圖生活窟": "https://hanc1027.github.io"
+        }
+    },
+    "plugins": [
+        "github@^2.0.0",
+        "github-buttons@2.1.0",
+        "pageview-count",
+        "edit-link",
+        "todo@^0.1.3"
+    ],
+    "pluginsConfig": {
+        "theme-default": {
+            "showLevel": true
+        },
+        "github": {
+            "url": "https://github.com/hanc1027/Telegram_Intro"
+        },
+        "github-buttons": {
+            "repo": "hanc1027/Telegram_Intro",
+            "types": [
+                "star"
+            ],
+            "size": "small"
+        },
+        "edit-link": {
+            "base": "https://github.com/hanc1027/Telegram_Intro/edit/master",
+            "label": "編輯本頁"
+        } 
+    }
+}
