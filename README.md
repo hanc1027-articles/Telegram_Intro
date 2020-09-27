@@ -13,7 +13,7 @@
 ---
 
 ### 介紹
-Telegram是一個跨平台(Linux、Mac OS、Windows、iOS、Android…)的即時通訊軟體。  
+Telegram是一個<span style="color:darkorange">跨平台</span>(Linux、Mac OS、Windows、iOS、Android…)的即時通訊軟體。  
 其用戶端是自由及開放原始碼軟體(有許多第三方的軟體)，但伺服器是專有軟體。  
 使用者可以相互交換加密與自毀訊息，傳送相片、影片等所有類型檔案。  
 官方提供手機版、電腦版和網頁版等多種平台用戶端；同時官方開放應用程式介面，因此擁有許多第三方的用戶端可供選擇，其中多款內建中文。  
@@ -55,7 +55,7 @@ Telegram是一個跨平台(Linux、Mac OS、Windows、iOS、Android…)的即時
 |項目 |Telegram|Line|
 |:--|:------:|:---:|
 |貼圖完全免費|✅|❌|
-|貼圖可自製上傳(TG上架規範寬鬆)<br>推銷一下自己做的貼圖<br>[阿嬤經典語錄(台語)](https://t.me/addstickers/ama_letter)<br>[小白靈](https://t.me/addstickers/small_white_cute)<br>[C的陰謀](https://t.me/addstickers/plot_of_c)|✅|✅|
+|貼圖可自製上傳(TG上架規範寬鬆)<br>推銷一下自己做的貼圖<br>[阿嬤經典語錄(台語)](https://t.me/addstickers/ama_letter)<br>[小白靈](https://t.me/addstickers/small_white_cute)<br>[C的陰謀](https://t.me/addstickers/plot_of_c)<br>[小廢貓皇](https://t.me/addstickers/fefecat)|✅|✅|
 |聊天室直接玩遊戲🎮|✅|❌|
 |軟體本身可充當雲端音樂播放器|✅|❌|
 |記事本功能<br>(TG可使用「私人頻道」代替)|✅|✅|
@@ -99,7 +99,7 @@ Telegram是一個跨平台(Linux、Mac OS、Windows、iOS、Android…)的即時
 ---
 
 ### 第三方手機軟體
-1) iOS:[Nicegram](https://apps.apple.com/us/app/nicegram/id1457369322)
+1) iOS:[Nicegram](https://apps.apple.com/us/app/nicegram/id1457369322)  
 2) Android:[Plus Messenger](https://play.google.com/store/apps/details?id=org.telegram.plus&hl=zh_TW)
 
 [⬆️Top](#目錄)
