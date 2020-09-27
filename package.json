@@ -4,6 +4,8 @@
   "description": "Telegram最基礎教學",
   "main": "index.js",
   "dependencies": {
+    "gitbook-plugin-chapter-fold": "^0.0.4",
+    "gitbook-plugin-expandable-chapters": "^0.2.0",
     "gitbook-plugin-github": "^2.0.0",
     "gitbook-plugin-github-buttons": "^2.1.0",
     "gitbook-plugin-pageview-count": "^1.0.1",
