@@ -14,13 +14,11 @@
         "github@^2.0.0",
         "github-buttons@2.1.0",
         "pageview-count",
-        "edit-link",
-        "todo@^0.1.3"
+        "-lunr",
+        "-search",
+        "search-pro"
     ],
     "pluginsConfig": {
-        "theme-default": {
-            "showLevel": true
-        },
         "github": {
             "url": "https://github.com/hanc1027/Telegram_Intro"
         },
@@ -30,10 +28,6 @@
                 "star"
             ],
             "size": "small"
-        },
-        "edit-link": {
-            "base": "https://github.com/hanc1027/Telegram_Intro/edit/master",
-            "label": "編輯本頁"
-        } 
+        }
     }
 }
