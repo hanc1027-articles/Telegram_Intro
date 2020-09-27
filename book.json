@@ -16,7 +16,11 @@
         "pageview-count",
         "-lunr",
         "-search",
-        "search-pro"
+        "search-pro",
+        "chapter-fold",
+        "expandable-chapters",
+        "back-to-top-button",
+        "code"
     ],
     "pluginsConfig": {
         "github": {
